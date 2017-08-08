@@ -3,7 +3,8 @@
 /c/sha256
 
 # exclude simulation files
-
-
-
+/testbench/work/*
+/testbench/work/*/*
+/testbench/transcript
+/testbench/vsim.wlf
 
