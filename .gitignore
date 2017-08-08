@@ -1,0 +1,9 @@
+# exclude executables from the c directory
+/c/sha256.o
+/c/sha256
+
+# exclude simulation files
+
+
+
+
